@@ -5,6 +5,8 @@ http://192.168.10.1:8888/rtp/239.21.0.102:3748
 http://192.168.10.1:8888/rtp/239.20.0.16:3340
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="常看",凤凰资讯台
 https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 tvg-id="140" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/TVB.png" group-title="常看",翡翠台
+http://98.142.138.122:1633/zhiboyuandakaTV/tvbjade32203980.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合
 http://192.168.10.1:8888/rtp/239.10.0.114:1025
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13新闻
