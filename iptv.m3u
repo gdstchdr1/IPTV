@@ -55,5 +55,5 @@ http://192.168.10.1:8888/rtp/239.21.0.92:3708
 http://192.168.10.1:8888/rtp/239.21.0.93:3712
 #EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="卫视",南方卫视
 http://192.168.10.1:8888/rtp/239.21.0.84:3676
-#EXTINF:-1 tvg-name="抖音4K世界杯SDR源" tvg-logo="https://img.sj33.cn/uploads/202106/7-2106211G121315.jpg" group-title="4K频道" ,抖音4K世界杯SDR源
-https://pull-spe-l3.douyincdn.com/fantasy/stream-112002057447932598_spuhd.flv?_neptune_token=MIGoBAy6W2fsshiAp0_JQ5EEgYXLK4Eu6EFuIozhlrqnXGROTrxUH3GUg-wbEWKde57ZppgyzkrImnYSXaJ7FMvD7vehX9WkYCABTVIg3YDL9QFZIVVWZuovXBWplHH1j46_KkhqGEKx-_i4I_K6vuTTiMZpdTvatyGEOLUk5uHODBHauF0UQDiVRLbfxyJeVcxsh1GHBNmABBDiJfflXU19evGtfXyUlmKa&auth_key=1669117294-0-0-039754ce2178565d183a7d2bd43dd5de&abr_pts=-1800
+#EXTINF:-1 tvg-name="CCTV5+体育高清" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/cctv-5.png" group-title="央视",CCTV-5+ 体育高清
+http://192.168.10.1:8888/rtp://239.20.0.203:2204
