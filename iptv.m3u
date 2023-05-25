@@ -2,9 +2,9 @@
 #EXTINF:-1 tvg-id="21" tvg-name="汕头-经济" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/ST-2.png" group-title="常看",汕头-经济
 http://192.168.10.1:8888/rtp/239.21.0.102:3748
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/fenghuangzixun.png" group-title="常看",凤凰资讯台
-http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=1
+http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/cctv-4.png" group-title="常看",CCTV-4 中文国际
-http://192.168.10.1:8888/rtp/239.20.0.16:3340
+http://192.168.10.1:8888/rtp/239.20.0.16:3340 
 #EXTINF:-1 tvg-id="140" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/TVB.png" group-title="常看",翡翠台
 http://r.jdshipin.com/n90gt
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/cctv-1.png" group-title="央视",CCTV-1 综合
