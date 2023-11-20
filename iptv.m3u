@@ -57,3 +57,7 @@ http://192.168.10.1:8888/rtp/239.21.0.93:3712
 http://192.168.10.1:8888/rtp/239.21.0.84:3676
 #EXTINF:-1 tvg-id="61" tvg-name="CCTV5+体育高清" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/cctv-5.png" group-title="央视",CCTV-5+
 http://192.168.10.1:8888/rtp/239.10.0.213:1025
+#EXTINF:-1 tvg-id="6016" tvg-name="潮州-综合" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" group-title="地方",潮州-综合
+http://192.168.10.1:8888/rtp/239.21.0.145:3924
+#EXTINF:-1 tvg-id="6016" tvg-name="潮州-民生" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" group-title="地方",潮州-民生
+http://192.168.10.1:8888/rtp/239.21.0.146:3928
