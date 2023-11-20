@@ -61,3 +61,5 @@ http://192.168.10.1:8888/rtp/239.21.0.93:3712
 http://192.168.10.1:8888/rtp/239.21.0.84:3676
 #EXTINF:-1 tvg-id="61" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/cctv-5.png" group-title="央视",CCTV-5+
 http://192.168.10.1:8888/rtp/239.10.0.213:1025
+#EXTINF:-1 tvg-id="" tvg-name="大湾区卫视高清" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/cctv-5.png" group-title="卫视",大湾区卫视高清
+http://192.168.10.1:8888/rtp/239.11.0.78:1025
