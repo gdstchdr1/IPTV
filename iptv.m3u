@@ -1,5 +1,5 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="21" tvg-name="汕头经济" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/ST-2.png" group-title="常看",汕头-经济
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-id="汕头经济" tvg-name="汕头经济" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/ST-2.png" group-title="常看",汕头-经济
 http://192.168.10.1:8888/rtp/239.21.0.102:3748
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/fenghuangzixun.png" group-title="常看",凤凰资讯台
 http://113.117.74.28:8081/hls/36/index.m3u8
