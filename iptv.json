@@ -6,7 +6,7 @@
         {
           "name": "汕头-经济",
           "urls": [
-            "http://192.168.10.1:8888/rtp/239.21.0.102:3748"
+            "proxy://do=live&type=txt&ext=aHR0cDovLzE5Mi4xNjguMTAuMTo4ODg4L3J0cC8yMzkuMjEuMC4xMDI6Mzc0OA=="
           ]
         },
         {
