@@ -53,7 +53,7 @@ http://192.168.10.1:8888/rtp/239.20.0.170:2138
 http://192.168.10.1:8888/rtp/239.20.0.99:3004
 #EXTINF:-1 tvg-id="揭阳综合" tvg-name="揭阳综合" tvg-logo="" group-title="地方",揭阳-综合
 http://192.168.10.1:8888/rtp/239.21.0.91:3704
-#EXTINF:-1 tvg-id="揭阳新闻" tvg-name="揭阳新闻" tvg-logo="" group-title="地方",揭阳-公共
+#EXTINF:-1 tvg-id="揭阳生活" tvg-name="揭阳生活" tvg-logo="" group-title="地方",揭阳-公共
 http://192.168.10.1:8888/rtp/239.21.0.92:3708
 #EXTINF:-1 tvg-id="6016" tvg-name="广东新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" group-title="地方",广东新闻
 http://192.168.10.1:8888/rtp/239.21.0.93:3712
