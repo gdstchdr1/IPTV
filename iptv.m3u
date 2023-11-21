@@ -7,9 +7,9 @@ http://113.117.74.28:8081/hls/36/index.m3u8
 http://192.168.10.1:8888/rtp/239.20.0.16:3340 
 #EXTINF:-1 tvg-id="140" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/TVB.png" group-title="常看",翡翠台
 http://r.jdshipin.com/n90gt
-#EXTINF:-1 tvg-id="" tvg-name="潮州综合" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/cztv.png" group-title="常看",潮州-综合
+#EXTINF:-1 tvg-id="潮州综合" tvg-name="潮州综合" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/cztv.png" group-title="常看",潮州-综合
 http://192.168.10.1:8888/rtp/239.21.0.145:3924
-#EXTINF:-1 tvg-id="" tvg-name="潮州民生" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/cztv.png" group-title="常看",潮州-民生
+#EXTINF:-1 tvg-id="潮州民生" tvg-name="潮州民生" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/cztv.png" group-title="常看",潮州-民生
 http://192.168.10.1:8888/rtp/239.21.0.146:3928
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/cctv-1.png" group-title="央视",CCTV-1 综合
 http://192.168.10.1:8888/rtp/239.10.0.114:1025
