@@ -1,62 +1,13 @@
-#EXTM3U
-#EXTINF:-1,汕头经济生活
-http://192.168.10.1:8888/rtp/239.21.0.102:3748
-#EXTINF:-1,CCTV4
-http://192.168.10.1:8888/rtp/239.20.0.16:3340
-#EXTINF:-1,凤凰卫视资讯台
-http://iptv.tvfix.org/hls/fhzx.m3u8
-#EXTINF:-1 翡翠台
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-id="汕头经济生活" tvg-name="汕头经济生活" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/ST-2.png" group-title="常看",汕头-经济
+http://kk.cici-bbw.link:8888/rtp/239.21.0.102:3748
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/fenghuangzixun.png" group-title="常看",凤凰资讯台
+http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/cctv-4.png" group-title="常看",CCTV-4 中文国际
+http://kk.cici-bbw.link:8888/rtp/239.20.0.16:3340 
+#EXTINF:-1 tvg-id="140" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/TVB.png" group-title="常看",翡翠台
 http://r.jdshipin.com/n90gt
-#EXTINF:-1 潮州综合
-http://192.168.10.1:8888/rtp/239.21.0.145:3924
-#EXTINF:-1 潮州民生
-http://192.168.10.1:8888/rtp/239.21.0.146:3928
-#EXTINF:-1 CCTV5+
-http://192.168.10.1:8888/rtp/239.10.0.213:1025
-#EXTINF:-1,CCTV1
-http://192.168.10.1:8888/rtp/239.10.0.114:1025
-#EXTINF:-1,CCTV13
-http://192.168.10.1:8888/rtp/239.21.0.88:3692
-#EXTINF:-1,CCTV2
-http://192.168.10.1:8888/rtp/239.10.0.207:1025
-#EXTINF:-1,CCTV3
-http://192.168.10.1:8888/rtp/239.20.0.28:3292
-#EXTINF:-1,CCTV5
-http://192.168.10.1:8888/rtp/239.10.0.102:1025
-#EXTINF:-1,CCTV6
-http://192.168.10.1:8888/rtp/239.20.0.29:3288
-#EXTINF:-1,CCTV7
-http://192.168.10.1:8888/rtp/239.10.0.208:1025
-#EXTINF:-1,CCTV8
-http://192.168.10.1:8888/rtp/239.20.0.31:3280
-#EXTINF:-1,CCTV9
-http://192.168.10.1:8888/rtp/239.10.0.209:1025
-#EXTINF:-1,CCTV10
-http://192.168.10.1:8888/rtp/239.20.0.200:2198
-#EXTINF:-1,汕头综合
-http://192.168.10.1:8888/rtp/239.21.0.101:3744
-#EXTINF:-1,汕头汕头文旅体育
-http://192.168.10.1:8888/rtp/239.21.0.103:3752
-#EXTINF:-1,东方卫视
-http://192.168.10.1:8888/rtp/239.20.0.173:2144
-#EXTINF:-1,深圳卫视
-http://192.168.10.1:8888/rtp/239.20.0.122:2042
-#EXTINF:-1,浙江卫视
-http://192.168.10.1:8888/rtp/239.20.0.169:2136
-#EXTINF:-1,湖南卫视
-http://192.168.10.1:8888/rtp/239.20.0.105:2008
-#EXTINF:-1,江苏卫视
-http://192.168.10.1:8888/rtp/239.20.0.170:2138
-#EXTINF:-1,广东卫视超清
-http://192.168.10.1:8888/rtp/239.20.0.99:3004
-#EXTINF:-1,揭阳综合
-http://192.168.10.1:8888/rtp/239.21.0.91:3704
-#EXTINF:-1,揭阳生活
-http://192.168.10.1:8888/rtp/239.21.0.92:3708
-#EXTINF:-1,广东新闻
-http://192.168.10.1:8888/rtp/239.21.0.93:3712
-#EXTINF:-1,南方卫视
-http://192.168.10.1:8888/rtp/239.21.0.84:3676
-
-
-
+#EXTINF:-1 tvg-id="潮州综合" tvg-name="潮州综合" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/cztv.png" group-title="常看",潮州-综合
+http://kk.cici-bbw.link:8888/rtp/239.21.0.145:3924
+#EXTINF:-1 tvg-id="潮州民生" tvg-name="潮州民生" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/cztv.png" group-title="常看",潮州-民生
+http://kk.cici-bbw.link:8888/rtp/239.21.0.146:3928
