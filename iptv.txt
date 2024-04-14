@@ -1,40 +1,9 @@
 常看,#genre#
 汕头-经济,http://192.168.10.1:8888/rtp/239.21.0.102:3748
 中文国际,http://192.168.10.1:8888/rtp/239.20.0.16:3340
-凤凰资讯,https://0472.org/hls/youzaiSB/fhzx.m3u8
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/1.m3u8
-翡翠台,http://r.jdshipin.com/qClQf
-翡翠台,http://r.jdshipin.com/n90gt
-翡翠台,http://r.jdshipin.com/qrfbg
-翡翠台,http://36.36.200.212:9901/tsfile/live/1008_1.m3u8?key=txiptv&url=tvzb.com
-翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=30025
-翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=20127
-翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=30025
-翡翠台,http://107.167.12.58:27347/livehttpplay?channel_id=20124J2
-翡翠台,http://r.jdshipin.com/n90gt
-翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MA3A7166615971666159&ct=19226&tsum=abeff4c5d0d1ad10147a21ebc6cc5182
-翡翠台,http://r.jdshipin.com/62WM7
-翡翠台,http://r.jdshipin.com/qClQf
-翡翠台,http://113.117.74.12:8081/hls/25/index.m3u8
-翡翠台,http://66.181.39.224/ml.php?id=jade_twn
-翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
-翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
-翡翠台,http://r.jdshipin.com/62WM7
-翡翠台,http://r.jdshipin.com/qClQf
-翡翠台,http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
-翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
-翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
-翡翠台,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571187
-翡翠台,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153505
-翡翠台,http://dtv21.org:8080/play/live.php?mac=00:1A:79:00:21:D9&extension=ts&stream=306344
-翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
-翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
-TVB翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-TVB翡翠台,http://r.jdshipin.com/qClQf
-TVB翡翠台,http://120.236.57.77:9901/tsfile/live/1076_1.m3u8
-華麗翡翠台,http://dtv21.org:8080/play/live.php?mac=00:1A:79:00:21:D9&extension=ts&stream=306430
-香港 翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
+凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
+http://112.19.171.156:9999/udp/239.93.0.118:2191
+http://giwon.ddns.net:5555/udp/239.93.0.118:2191
 央视,#genre#
 CCTV-1 综合,http://192.168.10.1:8888/rtp/239.10.0.114:1025
 CCTV-2 综合,http://192.168.10.1:8888/rtp/239.10.0.207:1025
