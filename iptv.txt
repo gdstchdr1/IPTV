@@ -1,6 +1,7 @@
 常看,#genre#
 汕头-经济,http://192.168.10.1:8888/rtp/239.21.0.102:3748
 中文国际,http://192.168.10.1:8888/rtp/239.20.0.16:3340
+凤凰资讯,https://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191
 凤凰资讯,http://giwon.ddns.net:5555/udp/239.93.0.118:2191
