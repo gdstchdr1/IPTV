@@ -1,11 +1,7 @@
 常看,#genre#
 汕头-经济,http://192.168.10.1:8888/rtp/239.21.0.102:3748
 中文国际,http://192.168.10.1:8888/rtp/239.20.0.16:3340
-凤凰资讯,https://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191
-凤凰资讯,http://giwon.ddns.net:5555/udp/239.93.0.118:2191
-凤凰资讯,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
+凤凰资讯,https://z02.ubtvfans.com/live/rx1/2811/33a7203bc62f06ac6919c464a7749544/index.m3u8
 央视,#genre#
 CCTV-1 综合,http://192.168.10.1:8888/rtp/239.10.0.114:1025
 CCTV-2 综合,http://192.168.10.1:8888/rtp/239.10.0.207:1025
