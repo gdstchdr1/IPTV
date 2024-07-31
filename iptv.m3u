@@ -23,6 +23,8 @@ http://192.168.10.1:8888/rtp/239.20.0.28:3292
 http://192.168.10.1:8888/rtp/239.10.0.102:1025
 #EXTINF:-1 tvg-id="61" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/cctv-5.png" group-title="央视",CCTV-5+
 http://192.168.10.1:8888/rtp/239.10.0.213:1025
+#EXTINF:-1 tvg-id="61" tvg-name="CCTV-16" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/cctv-5.png" group-title="央视",CCTV-16
+http://192.168.10.1:8888/rtp/239.11.0.126:1025
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/cctv-6.png" group-title="央视",CCTV-6 电影
 http://192.168.10.1:8888/rtp/239.20.0.29:3288
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/cctv-7.png" group-title="央视",CCTV-7 国防军事
