@@ -21,6 +21,8 @@ http://192.168.10.1:8888/rtp/239.10.0.207:1025
 http://192.168.10.1:8888/rtp/239.20.0.28:3292
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/cctv-5.png" group-title="央视",CCTV-5 体育
 http://192.168.10.1:8888/rtp/239.10.0.102:1025
+#EXTINF:-1 tvg-id="61" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/cctv-5.png" group-title="央视",CCTV-5+
+http://192.168.10.1:8888/rtp/239.10.0.213:1025
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/cctv-6.png" group-title="央视",CCTV-6 电影
 http://192.168.10.1:8888/rtp/239.20.0.29:3288
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/cctv-7.png" group-title="央视",CCTV-7 国防军事
@@ -63,7 +65,5 @@ http://192.168.10.1:8888/rtp/239.21.0.92:3708
 http://192.168.10.1:8888/rtp/239.21.0.93:3712
 #EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="卫视",南方卫视
 http://192.168.10.1:8888/rtp/239.21.0.84:3676
-#EXTINF:-1 tvg-id="61" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/cctv-5.png" group-title="央视",CCTV-5+
-http://192.168.10.1:8888/rtp/239.10.0.213:1025
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/dwqws.png" group-title="卫视",大湾区卫视高清
 http://192.168.10.1:8888/rtp/239.11.0.78:1025
