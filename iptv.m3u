@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-id="汕头经济生活" tvg-name="汕头经济生活" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/ST-2.png" group-title="常看",汕头-经济
+#EXTINF:-1 tvg-id=" " tvg-name="汕头经济生活" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/ST-2.png" group-title="常看",汕头-经济
 http://192.168.10.1:8888/rtp/239.21.0.102:3748
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/fenghuangzixun.png" group-title="常看",凤凰资讯台
 http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
@@ -7,9 +7,9 @@ http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 http://192.168.10.1:8888/rtp/239.20.0.16:3340 
 #EXTINF:-1 tvg-id="140" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/TVB.png" group-title="常看",翡翠台
 http://bva.iptviptv.site:9694/hls/99/index.m3u8
-#EXTINF:-1 tvg-id="潮州综合" tvg-name="潮州综合" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/cztv.png" group-title="常看",潮州-综合
+#EXTINF:-1 tvg-id=" " tvg-name="潮州综合" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/cztv.png" group-title="常看",潮州-综合
 http://192.168.10.1:8888/rtp/239.21.0.145:3924
-#EXTINF:-1 tvg-id="潮州民生" tvg-name="潮州民生" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/cztv.png" group-title="常看",潮州-民生
+#EXTINF:-1 tvg-id=" " tvg-name="潮州民生" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/cztv.png" group-title="常看",潮州-民生
 http://192.168.10.1:8888/rtp/239.21.0.146:3928
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/cctv-1.png" group-title="央视",CCTV-1 综合
 http://192.168.10.1:8888/rtp/239.10.0.114:1025
@@ -59,13 +59,13 @@ http://192.168.10.1:8888/rtp/239.20.0.99:3004
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 #EXTINF:-1 group-title="•港澳台「壹」",台视新闻
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 tvg-id="揭阳综合" tvg-name="揭阳综合" tvg-logo="" group-title="地方",揭阳-综合
+#EXTINF:-1 tvg-id=" " tvg-name="揭阳综合" tvg-logo="" group-title="地方",揭阳-综合
 http://192.168.10.1:8888/rtp/239.21.0.91:3704
-#EXTINF:-1 tvg-id="揭阳生活" tvg-name="揭阳生活" tvg-logo="" group-title="地方",揭阳-公共
+#EXTINF:-1 tvg-id=" " tvg-name="揭阳生活" tvg-logo="" group-title="地方",揭阳-公共
 http://192.168.10.1:8888/rtp/239.21.0.92:3708
 #EXTINF:-1 tvg-id="6016" tvg-name="广东新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" group-title="地方",广东新闻
 http://192.168.10.1:8888/rtp/239.21.0.93:3712
 #EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="卫视",南方卫视
 http://192.168.10.1:8888/rtp/239.21.0.84:3676
-#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/dwqws.png" group-title="卫视",大湾区卫视高清
+#EXTINF:-1 tvg-id=" " tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/dwqws.png" group-title="卫视",大湾区卫视高清
 http://192.168.10.1:8888/rtp/239.11.0.78:1025
