@@ -37,7 +37,7 @@ http://192.168.10.1:8888/rtp/239.10.0.209:1025
 http://192.168.10.1:8888/rtp/239.20.0.200:2198
 #EXTINF:-1 tvg-id="15" tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/sjdl.png" group-title="地方",世界地理
 http://192.168.10.1:8888/rtp/239.11.0.63:1025
-#EXTINF:-1 tvg-id="143" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/CGTN.jpg" group-title="外文",央视国际
+#EXTINF:-1 tvg-id="143" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/CGTN.jpg" group-title="央视",央视国际
 http://192.168.10.1:8888/rtp/239.11.0.103:1025
 #EXTINF:-1 tvg-id=" " tvg-name="汕头综合" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/ST-1.png" group-title="地方",汕头-综合
 http://192.168.10.1:8888/rtp/239.21.0.101:3744
@@ -55,9 +55,9 @@ http://192.168.10.1:8888/rtp/239.20.0.105:2008
 http://192.168.10.1:8888/rtp/239.20.0.170:2138
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视超清
 http://192.168.10.1:8888/rtp/239.20.0.99:3004
-#EXTINF:-1 group-title="•港澳台「壹」",民视新闻
+#EXTINF:-1 tvg-name="民视新闻" group-title="台湾",民视新闻
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-#EXTINF:-1 group-title="•港澳台「壹」",台视新闻
+#EXTINF:-1 tvg-name="台视新闻" group-title="台湾",台视新闻
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name="揭阳综合" tvg-logo="" group-title="地方",揭阳-综合
 http://192.168.10.1:8888/rtp/239.21.0.91:3704
