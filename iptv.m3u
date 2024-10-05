@@ -39,9 +39,9 @@ http://192.168.10.1:8888/rtp/239.20.0.200:2198
 http://192.168.10.1:8888/rtp/239.11.0.63:1025
 #EXTINF:-1 tvg-id="143" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/gjdl.png" group-title="外文",央视国际
 http://192.168.10.1:8888/rtp/239.11.0.103:1025
-#EXTINF:-1 tvg-id="汕头综合" tvg-name="汕头综合" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/ST-1.png" group-title="地方",汕头-综合
+#EXTINF:-1 tvg-id=" " tvg-name="汕头综合" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/ST-1.png" group-title="地方",汕头-综合
 http://192.168.10.1:8888/rtp/239.21.0.101:3744
-#EXTINF:-1 tvg-id="汕头文旅体育" tvg-name="汕头文旅体育" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/ST-3.png" group-title="地方",汕头-文体
+#EXTINF:-1 tvg-id=" " tvg-name="汕头文旅体育" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/ST-3.png" group-title="地方",汕头-文体
 http://192.168.10.1:8888/rtp/239.21.0.103:3752
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
 http://192.168.10.1:8888/rtp/239.20.0.173:2144
