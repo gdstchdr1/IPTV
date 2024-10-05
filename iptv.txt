@@ -1,16 +1,7 @@
 常看,#genre#
 汕头-经济,http://192.168.10.1:8888/rtp/239.21.0.102:3748
 中文国际,http://192.168.10.1:8888/rtp/239.20.0.16:3340
-凤凰资讯,https://z02.ubtvfans.com/live/rx1/2811/33a7203bc62f06ac6919c464a7749544/index.m3u8
-凤凰资讯频道,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰资讯频道,http://www.cdtriot.cn:9999/udp/239.93.0.118:2191
-凤凰资讯频道,http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8?
-凤凰资讯频道,http://103.95.24.37:880/fhzx.m3u8
-凤凰资讯频道,http://146.56.153.245:20121/bysid/257
-凤凰资讯频道,http://61.221.215.25:8800/hls/47/index.m3u8
-凤凰资讯频道,http://www.cdtriot.cn:9999/udp/239.93.0.118:2191
-凤凰资讯频道,http://112.19.171.156:9999/udp/239.93.0.118:2191
-凤凰资讯频道,http://8.137.59.151:99/haioujk7788/haiousmtjk66.php?id=2
+凤凰资讯,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 央视,#genre#
 CCTV-1 综合,http://192.168.10.1:8888/rtp/239.10.0.114:1025
 CCTV-2 综合,http://192.168.10.1:8888/rtp/239.10.0.207:1025
@@ -24,6 +15,7 @@ CCTV-8 电视剧,http://192.168.10.1:8888/rtp/239.20.0.31:3280
 CCTV-9 纪录,http://192.168.10.1:8888/rtp/239.10.0.209:1025
 CCTV-10 科教,http://192.168.10.1:8888/rtp/239.20.0.200:2198
 CCTV-13 新闻,http://192.168.10.1:8888/rtp/239.21.0.88:3692
+央视国际,http://192.168.10.1:8888/rtp/239.11.0.103:1025
 卫视,#genre#
 东方卫视,http://192.168.10.1:8888/rtp/239.20.0.173:2144
 深圳卫视,http://192.168.10.1:8888/rtp/239.20.0.122:2042
@@ -39,6 +31,23 @@ CCTV-13 新闻,http://192.168.10.1:8888/rtp/239.21.0.88:3692
 汕头-文体,http://192.168.10.1:8888/rtp/239.21.0.103:3752
 揭阳-综合,http://192.168.10.1:8888/rtp/239.21.0.91:3704
 揭阳-公共,http://192.168.10.1:8888/rtp/239.21.0.92:3708
+港台,#genre#
+V音乐台,http://qwe.iptviptv.site:9694/hls/1000/index.m3u8
+HBO,http://qwe.iptviptv.site:9694/hls/1001/index.m3u8
+今日俄罗斯,http://qwe.iptviptv.site:9694/hls/1003/index.m3u8
+日本NHK,http://qwe.iptviptv.site:9694/hls/1004/index.m3u8
+韩国KBS,http://qwe.iptviptv.site:9694/hls/1005/index.m3u8
+翡翠台(广电),http://qwe.iptviptv.site:9694/hls/99/index.m3u8
+明珠台,http://qwe.iptviptv.site:9694/hls/103/index.m3u8
+翡翠台(原版),http://qwe.iptviptv.site:9694/hls/98/index.m3u8
+千禧经典台,http://qwe.iptviptv.site:9694/hls/901/index.m3u8
+翡翠台4k,http://qwe.iptviptv.site:9694/hls/902/index.m3u8
+Animax,http://qwe.iptviptv.site:9694/hls/903/index.m3u8
+美亚电影台,http://qwe.iptviptv.site:9694/hls/904/index.m3u8
+TVB PLUS,http://qwe.iptviptv.site:9694/hls/905/index.m3u8
+无线新闻台,http://qwe.iptviptv.site:9694/hls/906/index.m3u8
+天映經典頻道,http://qwe.iptviptv.site:9694/hls/914/index.m3u8
+黃金翡翠台,http://qwe.iptviptv.site:9694/hls/916/index.m3u8
 潮州-综合,http://192.168.10.1:8888/rtp/239.21.0.145:3924
 潮州-民生,http://192.168.10.1:8888/rtp/239.21.0.146:3928
 
