@@ -6,10 +6,7 @@
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-凤凰资讯,p3p://108.181.32.169:37089/641022be000e5cc69861ad4f5a025336
-凤凰资讯test,p3p://108.181.32.169:37089/641fd7b400080236d5bc536f5d82159c
-凤凰资讯,p3p://108.181.32.169:37089/641022be000e5cc69861ad4f5a025336
-凤凰资讯,p3p://167.114.175.6:55331/5fffbf860003807cedf4e1016c3c3ed2
+凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 央视国际,http://192.168.10.1:8888/rtp/239.11.0.103:1025
 TVB翡翠,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
 翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
