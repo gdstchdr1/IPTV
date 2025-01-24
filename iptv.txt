@@ -1,7 +1,7 @@
 常看,#genre#
 汕头-经济,http://192.168.10.1:8888/rtp/239.21.0.102:3748
 中文国际,http://192.168.10.1:8888/rtp/239.20.0.16:3340
-凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
+凤凰资讯,http://192.168.10.3:35455/rptv/HD-10000k-1080P-fhzixun5s.m3u8?license=cntv
 凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 央视国际,http://192.168.10.1:8888/rtp/239.11.0.103:1025
 TVB翡翠,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
