@@ -10,12 +10,11 @@
 凤凰资讯,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/index.m3u8
 凤凰资讯,http://121.205.69.190:8848/rtp/239.61.2.183:9086
 央视国际,http://192.168.10.1:8888/rtp/239.11.0.103:1025
-TVB翡翠,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
-翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-无线翡翠,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
-无线翡翠,http://cdn2.1689.us.kg/live/?id=gdfct
-无线翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
-无线翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
+J2,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
+
 央视,#genre#
 央视国际,http://192.168.10.1:8888/rtp/239.11.0.103:1025
 CCTV-1 综合,http://192.168.10.1:8888/rtp/239.10.0.114:1025
@@ -30,6 +29,7 @@ CCTV-8 电视剧,http://192.168.10.1:8888/rtp/239.20.0.31:3280
 CCTV-9 纪录,http://192.168.10.1:8888/rtp/239.10.0.209:1025
 CCTV-10 科教,http://192.168.10.1:8888/rtp/239.20.0.200:2198
 CCTV-13 新闻,http://192.168.10.1:8888/rtp/239.21.0.88:3692
+
 卫视,#genre#
 东方卫视,http://192.168.10.1:8888/rtp/239.20.0.173:2144
 深圳卫视,http://192.168.10.1:8888/rtp/239.20.0.122:2042
@@ -39,6 +39,7 @@ CCTV-13 新闻,http://192.168.10.1:8888/rtp/239.21.0.88:3692
 广东卫视超清,http://192.168.10.1:8888/rtp/239.20.0.99:3004
 南方卫视,http://192.168.10.1:8888/rtp/239.21.0.84:3676
 广东新闻,http://192.168.10.1:8888/rtp/239.21.0.93:3712
+
 地方,#genre#
 汕头-经济,http://192.168.10.1:8888/rtp/239.21.0.102:3748
 汕头-综合,http://192.168.10.1:8888/rtp/239.21.0.101:3744
@@ -48,22 +49,5 @@ CCTV-13 新闻,http://192.168.10.1:8888/rtp/239.21.0.88:3692
 潮州-综合,http://192.168.10.1:8888/rtp/239.21.0.145:3924
 潮州-民生,http://192.168.10.1:8888/rtp/239.21.0.146:3928
 
-广东-地方,#genre#
-汕头综合,http://27.41.250.254:801/hls/40/index.m3u8
-汕头经济,http://27.41.250.254:801/hls/41/index.m3u8
-汕头文旅,http://27.41.250.254:801/hls/39/index.m3u8
 
-汕头综合,http://14.112.86.101:4022/rtp/239.77.1.130:5146
-汕头综合,http://14.112.86.101:4022/rtp/239.253.43.45:5146
-汕头经济,http://14.112.86.101:4022/rtp/239.77.1.131:5146
-汕头经济,http://14.112.86.101:4022/rtp/239.253.43.46:5146
-汕头文育,http://14.112.86.101:4022/rtp/239.77.1.132:5146
-汕头文旅,http://14.112.86.101:4022/rtp/239.253.43.47:5146
-
-香港,#genre#
-翡翠台,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
-翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
-J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
-J2,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
 
