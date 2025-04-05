@@ -1,8 +1,8 @@
 常看,#genre#
 汕头-经济,http://192.168.10.1:8888/rtp/239.21.0.102:3748
 中文国际,http://192.168.10.1:8888/rtp/239.20.0.16:3340
-凤凰资讯,http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc
-凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.flv
 凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
 凤凰资讯,http://cdn5.1678520.xyz/live/?id=fhzx
 凤凰资讯,http://kxrj.site:1333/86/fh.php?id=fhzx
@@ -11,10 +11,9 @@
 凤凰资讯,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/index.m3u8
 凤凰资讯,http://121.205.69.190:8848/rtp/239.61.2.183:9086
 央视国际,http://192.168.10.1:8888/rtp/239.11.0.103:1025
-翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+翡翠台,http://aktv-stream.m16tv.cfd/stream/aktv/null/AKTV.m3u8
 J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
-J2,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
 
 央视,#genre#
 央视国际,http://192.168.10.1:8888/rtp/239.11.0.103:1025
