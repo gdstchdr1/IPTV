@@ -2,11 +2,11 @@
 #EXTINF:-1 tvg-id=" " tvg-name="汕头经济生活" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/ST-2.png" group-title="常看",汕头-经济
 http://192.168.10.1:8888/rtp/239.21.0.102:3748
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/fenghuangzixun.png" group-title="常看",凤凰资讯台
-http://cdn3.163189.xyz/live/fhzx/stream.m3u8
+http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/cctv-4.png" group-title="常看",CCTV-4 中文国际
 http://192.168.10.1:8888/rtp/239.20.0.16:3340 
 #EXTINF:-1 tvg-id="140" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/TVB.png" group-title="常看",翡翠台
-http://aktv-stream.m16tv.cfd/stream/aktv/null/AKTV.m3u8
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
 #EXTINF:-1 tvg-id=" " tvg-name="潮州综合" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/cztv.png" group-title="常看",潮州-综合
 http://192.168.10.1:8888/rtp/239.21.0.145:3924
 #EXTINF:-1 tvg-id=" " tvg-name="潮州民生" tvg-logo="https://raw.githubusercontent.com/gdstchdr1/IPTV/main/logo/cztv.png" group-title="常看",潮州-民生
